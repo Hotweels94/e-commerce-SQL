@@ -1,0 +1,6 @@
+{
+    "name": "vendor/autoload",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
